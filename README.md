@@ -6,8 +6,8 @@ Sin otro particulas, gracias.
 
 ## Enlaces
 
-- **Repositorio:** [https://github.com/tu_usuario/gestor-tareas-nextjs](https://github.com/DogeMX12/prueba_tecnica_v2)
-- **Despliegue:** [https://gestor-tareas-nextjs.vercel.app](https://prueba-tecnica-v2.vercel.app/)
+- **Repositorio:** [https://github.com/DogeMX12/prueba_tecnica_v4](https://github.com/DogeMX12/prueba_tecnica_v4)
+- **Despliegue:** [https://prueba-tecnica-v4.vercel.app/](https://prueba-tecnica-v4.vercel.app/)
 
 - # Gestor de Tareas
 
